@@ -1,0 +1,9 @@
+article[class^='caja']{
+  /*selecciona todas las etiquetas que empiezan con la pallabra caja*/
+  border: 4px solid black;
+  display: inline-block;
+  height: 220px;
+  width: 400px;
+  text-align: justify;
+  padding: 10px;
+}
